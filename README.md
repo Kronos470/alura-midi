@@ -9,7 +9,7 @@
 * [Funcionalidades e Demonstração da Aplicação](#hammer-funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#open_file_folder-acesso-ao-projeto)
 * [Tecnologias utilizadas](#wrench-tecnologias-utilizadas)
-* [Desenvolvedor do Projeto](#desenvolvedor-do-projeto)
+* [Desenvolvedor do Projeto](#smile-desenvolvedor-do-projeto)
 
 ## :book: Descrição do Projeto
 
@@ -48,6 +48,6 @@
 * ```Git```
 * ```GitHub```
 
-## Desenvolvedor do Projeto
+## :smile: Desenvolvedor do Projeto
 
 [<img src="https://avatars.githubusercontent.com/u/82409462?v=4" width=115 style="align: center"><br><sub>José Fonseca Neto</sub>](https://github.com/Kronos470)
