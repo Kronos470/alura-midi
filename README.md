@@ -37,7 +37,7 @@
 
 ## :open_file_folder: Acesso ao Projeto
 
-**Você pode acessar o site criado nesse projeto através desse [link](https://www.google.com/).**
+**Você pode acessar o site criado nesse projeto através desse [link](https://kronos470.github.io/alura-midi/).**
 
 ## :wrench: Tecnologias utilizadas
 
