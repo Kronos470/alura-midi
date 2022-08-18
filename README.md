@@ -7,16 +7,13 @@
 * [Descrição do Projeto](#book-descrição-do-projeto)
 * [Status do Projeto](#white_check_mark-status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#hammer-funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Acesso ao Projeto](#open_file_folder-acesso-ao-projeto)
+* [Tecnologias utilizadas](#wrench-tecnologias-utilizadas)
+* [Desenvolvedor do Projeto](#desenvolvedor-do-projeto)
 
 ## :book: Descrição do Projeto
 
-<p>Este projeto foi realizado por mim durante o estudo no curso da Alura sobre "JavaScript para Web: Crie páginas dinâmicas". Se trata de um site simples com 9 butôes na tela que reproduz audios específicos ao serem pressionados. Além de possuir carga horária de 10h, ele aborda os seguintes tópicos:</p>
+<p>Este projeto foi realizado por mim durante o estudo no curso da Alura sobre "JavaScript para Web: Crie páginas dinâmicas". Se trata de um site simples com 9 butões na tela que reproduz audios específicos ao serem pressionados. Além de possuir carga horária de 10h, ele aborda os seguintes tópicos:</p>
 
 * Identificar os papéis de cada tecnologia da Web para construção de páginas
 * Associar o JavaScript com HTML através do DOM
@@ -35,17 +32,22 @@
 
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82409462/185419095-dcb58a11-0a98-4fb1-8668-d4e866a31b18.jpg" alt="Demonstração de Alura Midi, contendo 9 botões com efeitos sonoros escritos em cada um" style="max-width: 50%;">
+  <img src="https://user-images.githubusercontent.com/82409462/185419095-dcb58a11-0a98-4fb1-8668-d4e866a31b18.jpg" alt="Demonstração de Alura Midi, contendo 9 botões com efeitos sonoros escritos em cada um" width=30%>
 </p>
 
-## Acesso ao Projeto
+## :open_file_folder: Acesso ao Projeto
 
-## Tecnologias utilizadas
+**Você pode acessar o site criado nesse projeto através desse [link](https://www.google.com/).**
 
-## Pessoas Contribuidoras
+## :wrench: Tecnologias utilizadas
 
-## Pessoas Desenvolvedoras do Projeto
+* ```HTML```
+* ```CSS```
+* ```Javascript```
+* ```Visual Code Studio```
+* ```Git```
+* ```GitHub```
 
-## Licença
+## Desenvolvedor do Projeto
 
-## Conclusão
+[<img src="https://avatars.githubusercontent.com/u/82409462?v=4" width=115 style="align: center"><br><sub>José Fonseca Neto</sub>](https://github.com/Kronos470)
